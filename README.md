@@ -9,7 +9,7 @@ or
 ### Basic usage
 ```jsx
 import React, { useState } from 'react';
-import OtpInput from 'react-otp-input';
+import VerificationInput from '@phuopham/verification-input';
 
 export default function App() {
   const [value, setValue] = useState('');
